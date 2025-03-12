@@ -6,6 +6,8 @@ import './App.css'
 function App(): JSX.Element {
   const [count, setCount] = useState(0)
 
+  // just add comment
+
   return (
     <>
       <div>
